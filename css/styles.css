@@ -710,6 +710,10 @@ margin-bottom: 20px;
         border-radius: 4px;
     
 }
+.btn-subscribe:hover ,
+.btn-subscribe:focus {
+    background: #188CE8;
+}
 .subscribe-icon {
     position: absolute;
     top: 50%;
